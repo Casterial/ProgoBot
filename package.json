@@ -1,0 +1,8 @@
+{
+    “name”: “Progo-Bot”,
+    “version”: “1.0.0”,
+    “description”: “This is a bot to help programmers with definitions, daily code challenges, and guides.”,
+    “main”: “bot.js”,
+    “author”: “Logan Shelton”,
+    “dependencies”: {}
+}
